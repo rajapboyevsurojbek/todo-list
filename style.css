@@ -1,0 +1,36 @@
+body {
+  background: aqua;
+}
+
+button {
+  background: black;
+  color: aliceblue;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 2px;
+}
+
+li {
+  list-style: none;
+  padding-left: 10px;
+  color: white;
+}
+
+.wrapper {
+  background: rgba(0, 0, 255, 0.199);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  border-radius: 20px;
+  padding: 10px;
+  width: 400px;
+  margin-top: 400px;
+  margin-left: 700px;
+}
+
+input {
+  padding: 5px;
+  margin: 2px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
